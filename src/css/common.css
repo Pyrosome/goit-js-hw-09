@@ -16,3 +16,12 @@ img {
   display: block;
   max-width: 100%;
 }
+
+.colorswitchers {
+  font-size: large;
+  position: absolute;
+  margin: 25% 40%  ;
+  width: 150px;
+  height: 70px;
+  border: 0;
+  }
