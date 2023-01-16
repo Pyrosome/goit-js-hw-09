@@ -17,6 +17,7 @@ img {
   max-width: 100%;
 }
 
+/*task 1*/
 .colorswitchers {
   font-size: large;
   position: absolute;
@@ -24,4 +25,22 @@ img {
   width: 150px;
   height: 70px;
   border: 0;
-  }
+}
+
+/*task 2*/
+.timer {
+  display: flex;
+}
+
+.field {
+  display: flex;
+  flex-direction: column;
+  margin: 15px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.value {
+  font-size: 30px;
+  font-weight: 400;
+}
