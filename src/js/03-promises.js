@@ -1,7 +1,5 @@
 import Notiflix from 'notiflix';
 
-// Notiflix.Notify.failure('Please choose a date in the future');
-
 const form = document.querySelector('.form');
 const firstDelayEl = document.querySelector('input[name = "delay"]');
 const stepEl = document.querySelector('input[name = "step"]');
